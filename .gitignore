@@ -1,0 +1,5 @@
+data/
+snapshots/
+__pycache__/
+train_logs/
+.DS_Store
